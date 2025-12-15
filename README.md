@@ -35,7 +35,7 @@ Sorry, russian only.
 * Запустить
 
 ## Покупка
-:basket: [Купить](https://support.chudik.pro/index.php?a=add&catid=6) через форму обратной связи.  
+:basket:[Купить](https://plati.market/itm/marzban-ip-limiter/5594163) на plati.market или [Купить](https://support.chudik.pro/index.php?a=add&catid=6) через форму обратной связи.  
 Покупка единоразовая навсегда, независимо от количества нод.  
 Поставляется в виде бинарника.  
 Лицензия привязана к серверу, на котором и будет запускаться программа.  
